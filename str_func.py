@@ -1,6 +1,6 @@
 def upper_str(str):
     """
-    Верхний регистр
+    докстринг
     """
     return str.upper()
 
