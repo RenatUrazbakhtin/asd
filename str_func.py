@@ -1,6 +1,5 @@
 def upper_str(str):
     """
-
     Верхний регистр встрей строки
     """
     return str.upper()
