@@ -1,5 +1,6 @@
 def upper_str(str):
     """
+
     Верхний регистр встрей строки
     """
     return str.upper()
@@ -14,4 +15,5 @@ def title_str(str):
         new_line += thing.capitalize()
         new_line += " "
     return new_line
+
 
